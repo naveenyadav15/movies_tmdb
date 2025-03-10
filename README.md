@@ -1,16 +1,9 @@
 # movies_tmdb
+Movie screen
+![image](https://github.com/user-attachments/assets/050cad4d-5766-4f81-b4ed-965c4b4d441f)
 
-A new Flutter project.
+Movie Detail Screen
+![image](https://github.com/user-attachments/assets/d0402688-5bd8-4828-b8b0-a6c4738df645)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Favorite Screen
+![image](https://github.com/user-attachments/assets/34a1c83f-31b1-4eee-a6b2-91815297d00d)
